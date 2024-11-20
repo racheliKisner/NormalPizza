@@ -1,0 +1,35 @@
+H:\webapi\lesson2\lesson2_2\bin\Debug\net8.0\appsettings.Development.json
+H:\webapi\lesson2\lesson2_2\bin\Debug\net8.0\appsettings.json
+H:\webapi\lesson2\lesson2_2\bin\Debug\net8.0\lesson2_2.exe
+H:\webapi\lesson2\lesson2_2\bin\Debug\net8.0\lesson2_2.deps.json
+H:\webapi\lesson2\lesson2_2\bin\Debug\net8.0\lesson2_2.runtimeconfig.json
+H:\webapi\lesson2\lesson2_2\bin\Debug\net8.0\lesson2_2.dll
+H:\webapi\lesson2\lesson2_2\bin\Debug\net8.0\lesson2_2.pdb
+H:\webapi\lesson2\lesson2_2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\webapi\lesson2\lesson2_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\webapi\lesson2\lesson2_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\webapi\lesson2\lesson2_2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\lesson2_2.csproj.AssemblyReference.cache
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\lesson2_2.GeneratedMSBuildEditorConfig.editorconfig
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\lesson2_2.AssemblyInfoInputs.cache
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\lesson2_2.AssemblyInfo.cs
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\lesson2_2.csproj.CoreCompileInputs.cache
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\lesson2_2.MvcApplicationPartsAssemblyInfo.cs
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\lesson2_2.MvcApplicationPartsAssemblyInfo.cache
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\staticwebassets.build.json
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\staticwebassets.development.json
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\staticwebassets\msbuild.lesson2_2.Microsoft.AspNetCore.StaticWebAssets.props
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\staticwebassets\msbuild.build.lesson2_2.props
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lesson2_2.props
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lesson2_2.props
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\staticwebassets.pack.json
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\scopedcss\bundle\lesson2_2.styles.css
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\lesson2_2.csproj.CopyComplete
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\lesson2_2.dll
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\refint\lesson2_2.dll
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\lesson2_2.pdb
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\lesson2_2.genruntimeconfig.cache
+H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\ref\lesson2_2.dll
+H:\!!חנות פיצה הטובה\חנות פיצה\lesson2_2\obj\Debug\net8.0\lesson2_2.dll
+H:\!!חנות פיצה הטובה\חנות פיצה\lesson2_2\obj\Debug\net8.0\refint\lesson2_2.dll
+H:\!!חנות פיצה הטובה\חנות פיצה\lesson2_2\obj\Debug\net8.0\lesson2_2.pdb

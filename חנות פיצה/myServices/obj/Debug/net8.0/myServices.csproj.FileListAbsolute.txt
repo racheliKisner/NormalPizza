@@ -1,0 +1,5 @@
+H:\!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.csproj.AssemblyReference.cache
+H:\!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+H:\!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.AssemblyInfoInputs.cache
+H:\!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.AssemblyInfo.cs
+H:\!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.csproj.CoreCompileInputs.cache
