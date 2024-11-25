@@ -1,11 +1,11 @@
 
 namespace myModels.Interfaces;
-using System;
-public interface IPizzaManager
+public interface IpizzaMannager
 {
-    public Boolean putGlutenById(bool isGluten, int id);
-    public Boolean deleteById(int id);
-    public Boolean getByName(string name);
-    public Boolean postPizza(string name, bool isGluten, int id);
-
+    List<Pizza> getPizzaList();
+    Pizza getPizza(int id);
+    Pizza getPizzaByName(string name);
+    void setPizza(string name, int id, bool ifGloten);
+	bool deletePizza(int id);   
+	bool updatePizza(int id, bool ifGloten);
 }

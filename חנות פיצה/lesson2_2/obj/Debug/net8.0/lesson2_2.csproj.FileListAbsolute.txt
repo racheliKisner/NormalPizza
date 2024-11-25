@@ -33,3 +33,6 @@ H:\webapi\lesson2\lesson2_2\obj\Debug\net8.0\ref\lesson2_2.dll
 H:\!!חנות פיצה הטובה\חנות פיצה\lesson2_2\obj\Debug\net8.0\lesson2_2.dll
 H:\!!חנות פיצה הטובה\חנות פיצה\lesson2_2\obj\Debug\net8.0\refint\lesson2_2.dll
 H:\!!חנות פיצה הטובה\חנות פיצה\lesson2_2\obj\Debug\net8.0\lesson2_2.pdb
+C:\Users\USER\Desktop\לימודים\webapi\מעודכן!!חנות פיצה הטובה\חנות פיצה\lesson2_2\obj\Debug\net8.0\lesson2_2.dll
+C:\Users\USER\Desktop\לימודים\webapi\מעודכן!!חנות פיצה הטובה\חנות פיצה\lesson2_2\obj\Debug\net8.0\refint\lesson2_2.dll
+C:\Users\USER\Desktop\לימודים\webapi\מעודכן!!חנות פיצה הטובה\חנות פיצה\lesson2_2\obj\Debug\net8.0\lesson2_2.pdb

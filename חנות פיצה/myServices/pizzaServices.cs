@@ -4,7 +4,7 @@ using myModels.Interfaces;
 namespace myServices;
 public class PizzaServices : PizzaController,IPizzaManager
 {
-    private List<Pizza> pizzaList = new List<Pizza>()
+    private  List<Pizza> pizzaList = new List<Pizza>()
     {
         new Pizza("margarita",true,111),
         new Pizza("bluma",true,222),

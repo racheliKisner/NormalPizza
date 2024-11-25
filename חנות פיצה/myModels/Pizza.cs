@@ -1,16 +1,16 @@
-namespace myModels;
+using myModels;
 
-public class Pizza{
+public class Pizza
+{
     
-  public string name{get; set;}
-    public bool isGluten{get; set;}
-    public int id{get; set;}
-   
-     public Pizza(string name, bool isGluten,int id) 
+        public string pizzaName { get; set; }
+        public int pizzaId {get; set;}
+
+        public bool ifGloten{ get; set; }
+        public Pizza(string pizzaName,int pizzaId,bool ifGloten)
         {
-            this.name = name;
-            this.isGluten=isGluten;
-            this.id = id;
-   
+            this.pizzaName=pizzaName;
+            this.pizzaId=pizzaId;
+            this.ifGloten=ifGloten;
         }
 }

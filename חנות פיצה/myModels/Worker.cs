@@ -1,21 +1,20 @@
-using System;
-using System.Collections.Generic;
+using myModels;
 
 
 
-namespace myModels;
+
 public class Worker
 {
     public string name { get; set; }
 
     public int age { get; set; }
 
-    public int id { get; set; }
-    
-    public Worker(string name,int age,int id)
-    {
-        this.name=name;
-        this.age=age;
-        this.id=id;
-    }
+public int salary{get;set;}
+
+public Worker(string name,int age,int salary)
+{
+this.name=name;
+this.age=age;
+this.salary=salary;
+}
 }

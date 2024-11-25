@@ -3,3 +3,9 @@ H:\!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\
 H:\!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.AssemblyInfoInputs.cache
 H:\!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.AssemblyInfo.cs
 H:\!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\לימודים\webapi\מעודכן!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\לימודים\webapi\מעודכן!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\לימודים\webapi\מעודכן!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\לימודים\webapi\מעודכן!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.AssemblyInfo.cs
+C:\Users\USER\Desktop\לימודים\webapi\מעודכן!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\לימודים\webapi\מעודכן!!חנות פיצה הטובה\חנות פיצה\myServices\obj\Debug\net8.0\myServices.sourcelink.json

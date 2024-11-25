@@ -1,5 +1,7 @@
 namespace myModels.Interfaces;
 
 public interface IOrdersManager{
-void setOrder(string CustomerId,decimal TotalAmount);
+
+	 bool addOrder(int id, int pay, bool ifPay);
+    void addPizza(int id,int pay,bool ifPay);
 }
